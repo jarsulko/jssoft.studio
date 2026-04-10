@@ -1,0 +1,5 @@
+site_name: JS Soft Studio Docs
+
+nav:
+  - Home: index.md
+  - Contact: contact.md
